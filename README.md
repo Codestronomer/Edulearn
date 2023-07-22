@@ -1,4 +1,4 @@
-# Edulearn - E-Learning Platform
+![image](https://github.com/Codestronomer/Edulearn/assets/56360107/c99b4e7c-af78-44d5-af85-e90532b197ac)# Edulearn - E-Learning Platform
 
 ![Edulearn Logo](https://example.com/path/to/logo.png)
 
@@ -26,3 +26,25 @@ Edulearn is a powerful and feature-rich e-learning platform built using Django. 
 7. Start the development server: `python manage.py runserver`
 
 ## Usage
+
+1. Access the admin interface at `http://localhost:8000/admin/` and log in with the superuser account.
+2. Create instructors and students accounts in the admin interface.
+3. Instructors can log in and create courses, lessons, quizzes, and assignments.
+4. Students can log in, search for courses, enroll in them, and access the course content.
+5. Students can participate in course discussions and track their progress.
+
+## Contributing
+
+Contributions to Edulearn are welcome! If you find a bug or want to add a new feature, please open an issue or submit a pull request. Make sure to follow the project's coding conventions and guidelines.
+
+## License
+
+Edulearn is open-source software licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Acknowledgements
+
+Special thanks to the contributors who made this project possible.
+
+## Contact
+
+For any questions or inquiries, please contact the Edulearn team at [Johnrumide6@gmail.com](mailto:johnrumide6@gmail.com).
