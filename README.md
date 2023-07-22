@@ -1,4 +1,4 @@
-![image](https://github.com/Codestronomer/Edulearn/assets/56360107/c99b4e7c-af78-44d5-af85-e90532b197ac)# Edulearn - E-Learning Platform
+# Edulearn - E-Learning Platform
 
 ![Edulearn Logo](https://example.com/path/to/logo.png)
 
