@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "edulearn"
+version = "0.1.0"
+description = "An e-learning platform"
+authors = ["codestronomer <johnrumide6@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+django = "^4.2.3"
+django-embed-video = "^1.4.9"
+django-memcache-status = "^2.3"
+djangorestframework = "^3.14.0"
+channels = "^4.0.0"
+django-braces = "^1.15.0"
+pymemcache = "^4.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
